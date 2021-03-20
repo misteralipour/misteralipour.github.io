@@ -3,6 +3,9 @@
 }
 
 #app-navbar {
-  background: linear-gradient(120deg, #00e4d0, #5983e8);
+  background: linear-gradient(120deg, rgba(75, 122, 192, 0.3), rgba(95, 137, 175, 0.4) );
+  -webkit-backdrop-filter: blur(50px);
+  backdrop-filter: blur(10px);
+  color: white;
 }
 
